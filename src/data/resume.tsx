@@ -25,7 +25,7 @@ export const DATA = {
   description:
     "A software engineer turned into a game developer with a passion for building immersive and interactive experiences.",
   summary:
-    "At the end of 2022, I started my job at a service based company as a game developer and in the beginning of 2024 I started contract based work as game developer working close with blockchain developers to deliver on chain games.",
+    "My creative coding journey began in 2019 during my B.Tech studies. After exploring various programming languages, I quickly pivoted to the creative 3D industry, mastering Unity to build AR, VR, and video game applications. Throughout university, I actively competed in hackathons and mentored fellow students. By 2022, I officially entered the industry, collaborating tightly with enterprise companies and Web3 blockchain developers. Transitioning from academia to shipped commercial products taught me how to architect complex systems, manage robust pipelines, and deliver highly-optimized interactive experiences in a professional, organized manner.",
   avatarUrl: "/me.jpeg",
   skills: [
     { name: "Unity", icon: Unity },
