@@ -77,10 +77,9 @@ export const DATA = {
       },
       email: {
         name: "Send Email",
-        url: "#",
+        url: "mailto:naren.kumar.jha@gmail.com",
         icon: Icons.email,
-
-        navbar: false,
+        navbar: true,
       },
     },
   },
@@ -106,7 +105,7 @@ export const DATA = {
       title: "Game Developer",
       logoUrl: "/a.svg",
       start: "August 2022",
-      end: "December 2022",
+      end: "December 2023",
       description:
         "Spearheaded development across diverse domains including Augmented Reality, Oculus Quest 2 Virtual Reality, WebRTC networking, and RPGs. Applied strict Object-Oriented Programming (OOP) principles and robust version control practices to maintain scalable codebases. Served as the Lead Game Developer for 'Intrant Inferis', an on-chain rogue-like action dungeon RPG mobile game powered by the Solana Blockchain and Unity.",
     },
@@ -117,8 +116,8 @@ export const DATA = {
       location: "Santa Clara, CA",
       title: "Software Engineer",
       logoUrl: "/i.svg",
-      start: "January 2020",
-      end: "April 2020",
+      start: "January 2024",
+      end: "March 2026",
       description:
         "Architected and wrote the entire MVP of the GeForce Now Cloud Gaming internal admin and A/B testing dashboard using React, Redux, TypeScript, and Python.",
     }
