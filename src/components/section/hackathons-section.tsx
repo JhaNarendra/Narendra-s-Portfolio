@@ -19,9 +19,7 @@ export default function HackathonsSection() {
           <div className="flex flex-col gap-y-3 items-center justify-center">
             <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl">I like building things</h2>
             <p className="text-muted-foreground md:text-lg/relaxed lg:text-base/relaxed xl:text-lg/relaxed text-balance text-center">
-              During my time in university, I attended {DATA.hackathons.length}+
-              hackathons. People from around the country would come together and
-              build incredible things in 2-3 days. It was eye-opening to see the endless possibilities brought to life by a group of motivated and passionate individuals.
+              Throughout my development journey, I've had the thrill of competing in multiple fast-paced hackathons and game jams. Building complex projects from scratch under extreme time constraints has continually sharpened my engineering skills and reinforced my passion for creating immersive, interactive experiences.
             </p>
           </div>
         </div>
@@ -53,6 +51,17 @@ export default function HackathonsSection() {
                   <p className="text-sm text-muted-foreground leading-relaxed wrap-break-word">
                     {hackathon.description}
                   </p>
+                )}
+                {hackathon.video && (
+                  <video
+                    src={hackathon.video}
+                    controls
+                    autoPlay
+                    loop
+                    muted
+                    playsInline
+                    className="w-full h-auto mt-3 rounded-lg shadow-sm border border-border"
+                  />
                 )}
                 {hackathon.links && hackathon.links.length > 0 && (
                   <div className="mt-1 flex flex-row flex-wrap items-start gap-2">
