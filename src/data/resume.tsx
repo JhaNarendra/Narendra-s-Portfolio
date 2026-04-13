@@ -222,6 +222,57 @@ export const DATA = {
       image: "",
       video: "/sushi-nads-demo.mp4",
     },
+    {
+      title: "AR Portal",
+      href: "",
+      dates: "April 2021 - June 2021",
+      active: false,
+      description:
+        "Developed an immersive Augmented Reality portal application using AR Foundation. By scanning real-world surfaces, users can spawn and step through a virtual doorway into completely different 360° environments, ranging from isolated cosmic spacescapes to fully-furnished virtual rooms.",
+      technologies: [
+        "Unity 3D",
+        "C#",
+        "AR Foundation",
+        "Augmented Reality",
+      ],
+      links: [],
+      image: "",
+      video: "/AR-Portal.mp4",
+    },
+    {
+      title: "Human Anatomy AR",
+      href: "",
+      dates: "March 2022 - April 2022",
+      active: false,
+      description:
+        "Engineered an educational Augmented Reality application designed to teach human anatomy interactively. The app augments a detailed 3D human model into the user's environment alongside dynamic world-space UI labels explicitly identifying biological regions such as the stomach, waist, eyes, and head.",
+      technologies: [
+        "Unity 3D",
+        "C#",
+        "AR Foundation",
+        "Educational Tech",
+      ],
+      links: [],
+      image: "",
+      video: "/HumanAnatomyAR.mp4",
+    },
+    {
+      title: "Cyber Strike VR",
+      href: "",
+      dates: "May 2022 - July 2022",
+      active: false,
+      description:
+        "Created an intense Virtual Reality rhythm-combat game heavily inspired by Beat Saber. Players dual-wield a responsive laser blaster and a physical energy sword to shoot and slash approaching colored targets within a high-speed virtual horizon. Features precision collision detection, fluid saber physics, and a fast-paced timer-based scoring system.",
+      technologies: [
+        "Unity 3D",
+        "C#",
+        "Oculus VR",
+        "Virtual Reality",
+      ],
+      links: [],
+      image: "",
+      video: "/CyberStrikeDemo.mp4",
+    },
   ],
   hackathons: [
     {
