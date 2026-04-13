@@ -157,7 +157,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "/INtrantDemo.mp4",
+      video: "/IntrantDemo.mp4",
     },
     {
       title: "Furi-Fighter",
@@ -220,7 +220,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "/sushi-nads-demo.mp4",
+      video: "/Sushi-Nads-Demo.mp4",
     },
     {
       title: "AR Portal",
