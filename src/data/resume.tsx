@@ -23,7 +23,7 @@ export const DATA = {
   location: "Greater Noida,Uttar Pradesh India",
   locationLink: "https://maps.app.goo.gl/zBADCBLPsBV9LJje6",
   description:
-    "A software engineer turned into a game developer with a passion for building immersive and interactive experiences.",
+    "A software engineer turned into a Unity XR & Multiplayer Developer with a passion for building immersive and interactive experiences.",
   summary:
     "My creative coding journey began in 2019 during my B.Tech studies. After exploring various programming languages, I quickly pivoted to the creative 3D industry, mastering Unity to build AR, VR, and video game applications. Throughout university, I actively competed in hackathons and mentored fellow students. By 2022, I officially entered the industry, collaborating tightly with enterprise companies and Web3 blockchain developers. Transitioning from academia to shipped commercial products taught me how to architect complex systems, manage robust pipelines, and deliver highly-optimized interactive experiences in a professional, organized manner.",
   avatarUrl: "/me.jpeg",
