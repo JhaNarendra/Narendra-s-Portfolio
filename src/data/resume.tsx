@@ -119,7 +119,7 @@ export const DATA = {
       start: "January 2024",
       end: "March 2026",
       description:
-        "Architected and wrote the entire MVP of the GeForce Now Cloud Gaming internal admin and A/B testing dashboard using React, Redux, TypeScript, and Python.",
+        "Designed and developed standalone RPGs and hypercasual games, integrating Web3 blockchain plugins for seamless on-chain functionality. Engineered, tested, and deployed dedicated Unity Linux servers to facilitate robust multiplayer synchronization and gameplay.",
     }
   ],
   education: [
