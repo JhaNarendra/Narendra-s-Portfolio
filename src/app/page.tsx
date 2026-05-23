@@ -9,7 +9,8 @@ import ContactSection from "@/components/section/contact-section";
 import HackathonsSection from "@/components/section/hackathons-section";
 import ProjectsSection from "@/components/section/projects-section";
 import WorkSection from "@/components/section/work-section";
-import { ArrowUpRight } from "lucide-react";
+import { ArrowUpRight, FileText } from "lucide-react";
+import { Button } from "@/components/ui/button";
 
 const BLUR_FADE_DELAY = 0.04;
 
@@ -31,6 +32,14 @@ export default function Page() {
                 delay={BLUR_FADE_DELAY}
                 text={DATA.description}
               />
+              <div className="flex gap-3 pt-2">
+                <Button asChild variant="outline" size="sm" className="h-8 rounded-lg px-4 flex items-center gap-1.5 shadow-sm hover:shadow-md transition-all duration-300" id="btn-hero-resume">
+                  <Link href="/resume">
+                    <FileText className="h-3.5 w-3.5" />
+                    <span>View Resume</span>
+                  </Link>
+                </Button>
+              </div>
             </div>
             <BlurFade delay={BLUR_FADE_DELAY} className="order-1 md:order-2">
               <Avatar className="size-24 md:size-32 border rounded-full shadow-lg ring-4 ring-muted">
