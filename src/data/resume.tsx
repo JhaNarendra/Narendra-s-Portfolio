@@ -136,7 +136,7 @@ export const DATA = {
   projects: [
     {
       title: "Intrant Inferis",
-      href: "https://intotheverse.xyz/",
+      href: "/IntrantDemo.mp4",
       dates: "September 2023 - may 2024",
       active: false,
       description:
@@ -162,7 +162,7 @@ export const DATA = {
     },
     {
       title: "Furi-Fighter",
-      href: "",
+      href: "/Furi-Fighter.mp4",
       dates: "May 2024 - September 2024",
       active: false,
       description:
@@ -181,7 +181,7 @@ export const DATA = {
     },
     {
       title: "APT-Horse",
-      href: "",
+      href: "/APTHorse.mp4",
       dates: "February 2024 - April 2024",
       active: false,
       description:
@@ -225,7 +225,7 @@ export const DATA = {
     },
     {
       title: "AR Portal",
-      href: "",
+      href: "/AR-Portal.mp4",
       dates: "April 2021 - June 2021",
       active: false,
       description:
@@ -242,7 +242,7 @@ export const DATA = {
     },
     {
       title: "Human Anatomy AR",
-      href: "",
+      href: "/HumanAnatomyAR.mp4",
       dates: "March 2022 - April 2022",
       active: false,
       description:
@@ -259,7 +259,7 @@ export const DATA = {
     },
     {
       title: "Cyber Strike VR",
-      href: "",
+      href: "/CyberStrikeDemo.mp4",
       dates: "May 2022 - July 2022",
       active: false,
       description:
