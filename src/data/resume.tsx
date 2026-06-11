@@ -177,7 +177,7 @@ export const DATA = {
       ],
       links: [],
       image: "",
-      video: "",
+      video: "/Furi-Fighter.mp4",
     },
     {
       title: "APT-Horse",
