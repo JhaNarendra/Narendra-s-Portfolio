@@ -274,6 +274,18 @@ export const DATA = {
       image: "",
       video: "/CyberStrikeDemo.mp4",
     },
+    {
+      title: "Genesis-Shift",
+      href: "https://celestialdev.itch.io/genesis-shift",
+      dates: "",
+      active: true,
+      description:
+        "Genesis Shift is a high-octane endless runner where reaction time is everything. Players dash across a dynamically collapsing path, gathering coins and dodging lethal hazards while competing on a global leaderboard. Features an adaptive difficulty curve that scales the challenge in real-time, alongside a strategic gem-collection mechanic that lets players harness power to temporarily transform and survive.",
+      technologies: [],
+      links: [],
+      image: "",
+      video: "",
+    },
   ],
   hackathons: [
     {
